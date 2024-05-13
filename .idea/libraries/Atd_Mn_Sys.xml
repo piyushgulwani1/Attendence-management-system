@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Atd_Mn_Sys">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Atd_Mn_Sys.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
